@@ -8,6 +8,9 @@ The app displays recipes fetched from the provided API in a modern, visually app
 - Custom image caching for efficient network usage
 - Modern aesthetic with gradient backgrounds and smooth animations
 
+  <img width="373" alt="Screenshot 2025-02-03 at 6 24 01 PM" src="https://github.com/user-attachments/assets/c79f9844-e76f-4a3f-80d8-05c67543207d" />
+
+
 ### Focus Areas: 
 Architecture and Code Quality
 
